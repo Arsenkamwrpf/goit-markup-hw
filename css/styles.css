@@ -12,7 +12,7 @@ body {
     display: flex;
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px 0 15px;
+    padding: 0 15px;
 }
 
 .header-navigation {
@@ -29,22 +29,12 @@ body {
     gap: 40px;
 }
 
-.address {
-    font-style: normal;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
 .address-list {
     display: flex;
     gap: 40px;
 }
 
-.section1 {
-    background-color: #2e2f42;
-}
-
+/* Стилі для першої секції */
 .first-section {
     padding: 188px 0;
 }
